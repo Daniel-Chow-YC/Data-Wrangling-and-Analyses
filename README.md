@@ -11,6 +11,6 @@
 3. Cleaning data
 4. Storing data
 5. Analysing, and visualizing data
-6. Reporting
-- your data wrangling efforts
-- your data analyses and visualizations
+6. Reporting on:
+-  data wrangling efforts
+-  data analyses and visualizations
